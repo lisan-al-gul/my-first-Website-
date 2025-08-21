@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(211, 194, 163);
+    max-width: 1080px;
+    margin: 0 auto;
+    font-family: "comic sans ms";
+    font-size: 150%;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, 1),
+            rgba(0, 0, 0, 0)), url(ropz.png)
+}
+
+h1 {
+    color: rgb(139, 10, 139)
+}
+
+h2 {
+    background-color: aqua;
+    color: brown;
+}
+
+img {
+    width: 75%;
+    height: auto;
+}
+
+.stupid {
+    margin-left: 50px;
+}
+
+.iframesize{
+    width: 55%;
+    height: 450px
+}
